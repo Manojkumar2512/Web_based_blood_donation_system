@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1d9903de.css",
+    "main.js": "/static/js/main.6fba9e83.js",
+    "static/js/787.43bfb561.chunk.js": "/static/js/787.43bfb561.chunk.js",
+    "static/media/vector2.jpg": "/static/media/vector2.043a244276a9d55d8c77.jpg",
+    "static/media/vector4.jpg": "/static/media/vector4.98dd1895de9bcfea1cdc.jpg",
+    "static/media/smiling-woman.png": "/static/media/smiling-woman.e4584a13ce4a7d7aa30d.png",
+    "static/media/donateVector.png": "/static/media/donateVector.f37ed22c994550c6e998.png",
+    "static/media/Donating-Blood-1.svg": "/static/media/Donating-Blood-1.570f60a7ae48ea707d83654c4dbde710.svg",
+    "static/media/hospital2.jpg": "/static/media/hospital2.a49cdf779aba03d5c22c.jpg",
+    "static/media/dash-hosp.png": "/static/media/dash-hosp.81f9f41a596d34ba90b9.png",
+    "static/media/hospital3.jpg": "/static/media/hospital3.e0550abdfd5707a623ae.jpg",
+    "static/media/hospital1.jpg": "/static/media/hospital1.5d70c420b8aff8934a7e.jpg",
+    "static/media/blood-donating-bg.jpg": "/static/media/blood-donating-bg.bfd359b07bba0702c170.jpg",
+    "static/media/lifeline.png": "/static/media/lifeline.1679fba251f847628a71.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.1d9903de.css.map": "/static/css/main.1d9903de.css.map",
+    "main.6fba9e83.js.map": "/static/js/main.6fba9e83.js.map",
+    "787.43bfb561.chunk.js.map": "/static/js/787.43bfb561.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d9903de.css",
+    "static/js/main.6fba9e83.js"
+  ]
+}
